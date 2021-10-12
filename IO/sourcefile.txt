@@ -1,0 +1,11 @@
+cd "/home/manuvikash/Object-oriented-programming/IO/" && javac ByteStream.java && java ByteStream
+manuvikash@manuvikash-Inspiron-13-7359:~/Object-oriented-programming$ cd "/home/manuvikash/Object-oriented-programming/IO/" && javac ByteStream.java && java ByteStream
+ByteStream.java:5: error: cannot find symbol
+        FileInputStreamm sourceStream = null;
+        ^
+  symbol:   class FileInputStreamm
+  location: class ByteStream
+1 error
+manuvikash@manuvikash-Inspiron-13-7359:~/Object-oriented-programming/IO$ cd "/home/manuvikash/Object-oriented-programming/IO/" && javac ByteStream.java && java ByteStream
+manuvikash@manuvikash-Inspiron-13-7359:~/Object-oriented-programming/IO$ ^C
+manuvikash@manuvikash-Inspiron-13-7359:~/Object-oriented-programming/IO$ 
