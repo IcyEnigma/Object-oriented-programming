@@ -12,7 +12,7 @@ public class test1 {
     }
     void B() throws Exception{
         try{
-            str+="sfsfs";
+            str+="d";
             C();
         }
         catch(Exception e){
