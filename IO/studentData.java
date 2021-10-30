@@ -16,7 +16,6 @@ public class studentData {
             fw.write(name + " : " + Integer.toString(age) + " : " + phone + "\n");    
             fw.close();    
             }catch(Exception e){System.out.println(e);}    
-            System.out.println("Success..."); 
-        }
+        System.out.println("Success..."); 
     }
-
+}
